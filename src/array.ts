@@ -1,0 +1,1 @@
+const names: [string, number]  = ['abul', 45];
